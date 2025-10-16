@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/ChristianPRO1982/semantics2/compare/v1.0.1...v1.0.2) (2025-10-16)
+
+
+### Bug Fixes
+
+* problème de pointage ([5f4b286](https://github.com/ChristianPRO1982/semantics2/commit/5f4b28697536d87c3478bb9229d62fecf63550b7))
+
 ## [1.0.1](https://github.com/ChristianPRO1982/semantics2/compare/v1.0.0...v1.0.1) (2025-10-16)
 
 
